@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"property","l":"DescriptionProperty"},{"p":"property","l":"DTEndProperty"},{"p":"property","l":"DTStampProperty"},{"p":"property","l":"DTStartProperty"},{"p":"property","l":"DurationProperty"},{"p":"property","l":"SummaryProperty"},{"p":"property","l":"UIDProperty"}];updateSearchResults();
